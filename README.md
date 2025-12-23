@@ -2,6 +2,8 @@
 
 A minimal implementation of [agent skills](https://agentskills.io) - a lightweight, open format for extending AI agents with specialized capabilities.
 
+**Written by [Aman](https://amankumar.ai), [Claude](https://claude.ai), and [Cursor](https://cursor.com)**
+
 ## What Are Agent Skills?
 
 Agent skills are markdown files (`SKILL.md`) that give AI agents specialized knowledge and workflows. Each skill contains:
