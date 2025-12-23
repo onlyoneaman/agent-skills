@@ -100,7 +100,6 @@ agent-skills/
 
 - **[AgentSkills.io](https://agentskills.io)** - Official standard and documentation
 - **[Claude Skills](https://github.com/anthropics/claude-skills)** - Anthropic's skill examples
-- **[Open Agent Skills](https://github.com/samuelint/open-agent-skills)** - Community skill collection
 
 ## Learn More
 
